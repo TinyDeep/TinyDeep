@@ -32,8 +32,8 @@
 </p>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TinyDeep&theme=2077" alt="Joshua's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TinyDeep&theme=2077" alt="Joshua's top lang stats per commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cool-Engr&theme=2077" alt="Joshua's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Cool-Engr&theme=2077" alt="Joshua's top lang stats per commit"/>
 </div>
 
 <br>
