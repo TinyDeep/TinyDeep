@@ -15,7 +15,6 @@
 - 💬 Ask me about **Fullstack Development, Backend, Cloud Technologies, Machine Learning, and more**.
 
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/joshua-henry-a74a23391/)
 
 ### Current Research & Innovation
 - **Fullstack Architecture Optimization** - Designing scalable and efficient architectures for frontend and backend systems.
